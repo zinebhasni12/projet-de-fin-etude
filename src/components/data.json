@@ -1,0 +1,508 @@
+ [
+        {
+            "_id": "656b472a429feee65f1d41ca",
+            "sku": "ring-1701529386714",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051830/product_images/1702051831983/egadp1bden5pczbmpee6.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051832/product_images/1702051834118/caifaddroaohkip7glm9.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051834/product_images/1702051836201/jarrhnzmn0v0mdvi2zoe.webp"
+            ],
+            "productName": "Double Floating Stones Ring, Gold",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "A gleaming embodiment of prestige, this gold ring exudes timeless allure and exquisite craftsmanship",
+            "longDescription": "Imbued with the essence of timeless elegance, this golden ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+            "price": 80.69,
+            "quantity": 200,
+            "discountPrice": 20,
+            "active": true
+        },
+        {
+            "_id": "656b4c60429feee65f1d41e6",
+            "sku": "ring-1701530720340",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051873/product_images/1702051876228/i8ywlli2gj1ykhp2euyl.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051875/product_images/1702051877519/njjxvyraffw05nkwgway.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051876/product_images/1702051878901/euvsl8ihmilfjoxbevo8.jpg"
+            ],
+            "productName": "Double Floating Stones Ring, Silver",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "A gleaming embodiment of prestige, this sliver ring exudes timeless allure and exquisite craftsmanship",
+            "longDescription": "Imbued with the essence of timeless elegance, this sliver ring captivates with its radiant allure. Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+            "price": 80.69,
+            "quantity": 200,
+            "discountPrice": 30,
+            "active": true
+        },
+        {
+            "_id": "656b53668c408639e522defc",
+            "sku": "ring-1701532518573",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051916/product_images/1702051918611/mn0gjtupt0cifzz3govw.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051918/product_images/1702051920434/hd96hcekdqcnctcwbftx.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051919/product_images/1702051921986/a4a90iborbbqmbwqpgik.webp"
+            ],
+            "productName": "Orelia Interlocking Rings, Pale Gold",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "Luxurious Gold Band",
+            "longDescription": "A gleaming embodiment of prestige, this gold ring exudes timeless allure and exquisite craftsmanship.Crafted meticulously, it stands as a testament to exquisite artistry, an emblem of grace that transcends eras and embodies the essence of sophistication. A symbol of enduring beauty, it whispers stories of craftsmanship, luxury, and everlasting allure.",
+            "price": 220,
+            "quantity": 100,
+            "discountPrice": 50,
+            "active": true
+        },
+        {
+            "_id": "656b55e38c408639e522df3e",
+            "sku": "ring-1701533155432",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051888/product_images/1702051890506/r3d0skuhpzhf2c7v3qrg.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051890/product_images/1702051892212/fiw1wwkx6qgdolb77ctu.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051891/product_images/1702051893734/p0pgx6476hvadnpizwey.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051893/product_images/1702051895318/ryxs8yc0y0r2a9eynxps.jpg"
+            ],
+            "productName": "Coloured Stone Adjustable Ring, Pack of 3",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "Bolster your look with these simple yet vibrant rings from our collection.",
+            "longDescription": "Bolster your look with these simple yet vibrant rings from our collection. This pack comes with 3 rings with each ring featuring an oval-coloured glass stone with a studded border. Designed to be easily adjustable, you can be assured of a perfect fit.",
+            "price": 153.71,
+            "quantity": 100,
+            "discountPrice": 53,
+            "active": true
+        },
+        {
+            "_id": "656b57518c408639e522df53",
+            "sku": "ring-1701533521635",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052190/product_images/1702052192571/iady8g9mnc5lnttmeoxr.webp"
+            ],
+            "productName": "Orelia Triple Illusion Adjustable Ring, Gold",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "Orelia Triple Illusion Adjustable Ring, Gold",
+            "longDescription": "Designed with three textured rows to give the illusion of a full ring stack, this Triple Illusion Adjustable Ring is an easy-to-wear style suitable for everyday wear.",
+            "price": 281.8,
+            "quantity": 50,
+            "discountPrice": 100,
+            "active": true
+        },
+        {
+            "_id": "656b58258c408639e522df63",
+            "sku": "ring-1701533733698",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051936/product_images/1702051938445/nu946tzp7auopjmmhaum.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051937/product_images/1702051939601/hsy4akaxxj7u2qhrazhb.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051939/product_images/1702051941042/kdrwb3qp4il4sb7bfg5s.jpg"
+            ],
+            "productName": "Crystal Leopard Ring, Gold",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "This jewelled leopard ring brings the vintage jewels right to your fingertips.",
+            "longDescription": "This jewelled leopard ring brings the vintage jewels right to your fingertips. It features round-cut Swarovski crystals in the leopard's eyes and a round jet embellishment on the leopard's body.",
+            "price": 448.31,
+            "quantity": 50,
+            "discountPrice": 100,
+            "active": true
+        },
+        {
+            "_id": "656b5b0af5632dfbc8a2f466",
+            "sku": "ring-1701534474240",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051951/product_images/1702051953490/y9qarvh8afeumvpzcvpp.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051952/product_images/1702051954947/aj7gz1hkldjmyrnw7myx.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051954/product_images/1702051956358/mrctbmlckirgqopmr8vx.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051955/product_images/1702051957622/wpmtcscye86qsvhdajhn.jpg"
+            ],
+            "productName": "Nura Stacking Ring, Gold",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "This one's a stacking staple.",
+            "longDescription": "This one's a stacking staple. One across every finger, layer with finer rings or a statement piece on its own. Every hand-crafted Monica Vinader piece comes with a 5-year warranty and lifetime repairs.",
+            "price": 448.31,
+            "quantity": 60,
+            "discountPrice": 200,
+            "active": true
+        },
+        {
+            "_id": "656b7e3cf5632dfbc8a2f4b0",
+            "sku": "ring-1701543484819",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701543481/product_images/undefined-1701543482160.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701543482/product_images/undefined-1701543482161.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701543482/product_images/undefined-1701543482169.jpg"
+            ],
+            "productName": "Oval Pave Ring, Silver",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "Oval Pave Ring, Silver",
+            "longDescription": "Beautifully polished and accented with pave set cubic zirconia stones on one side, this oval-shaped ring is a modern statement piece.",
+            "price": 499.55,
+            "quantity": 200,
+            "discountPrice": 100,
+            "active": true
+        },
+        {
+            "_id": "656b7f1cf5632dfbc8a2f4c6",
+            "sku": "ring-1701543708258",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544500/product_images/1701544500637/rqguki15bnxaao29mpiv.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544501/product_images/1701544501969/fx7cuzcvlh70mmli4u8z.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544503/product_images/1701544503505/kj9tjgegbiypqopguuly.jpg"
+            ],
+            "productName": "Star Ring, Silver, Silver",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "Star Ring, Silver, Silver",
+            "longDescription": "Kept simple with only a cut-out star detail, this polished ring is a style that shines through.",
+            "price": 499.55,
+            "quantity": 210,
+            "discountPrice": 120,
+            "active": true
+        },
+        {
+            "_id": "656b817d0ae384209a8c236d",
+            "sku": "ring-1701544317954",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544387/product_images/1701544387688/vxquejwsrt7yboay9g1x.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544388/product_images/1701544389124/weoeieqkhjo3kvd9bhwj.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544390/product_images/1701544390621/mjsbrdedilsc9tqftmnl.jpg"
+            ],
+            "productName": "Diamond Cluster Set Ring",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "a dazzling round brilliant cut diamond ",
+            "longDescription": "With a dazzling round brilliant cut diamond surrounded by a series of clustered diamonds sitting on diamond set shoulders, this ring from E.W Adams can only be described as stunning. Made from solid platinum, it is a piece that they'll treasure for a lifetime.",
+            "price": 40924.75,
+            "quantity": 10,
+            "discountPrice": 0,
+            "active": true
+        },
+        {
+            "_id": "656b82bf0ae384209a8c23cd",
+            "sku": "ring-1701544639398",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544637/product_images/undefined-1701544637223.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544637/product_images/undefined-1701544637223.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701544637/product_images/undefined-1701544637232.jpg"
+            ],
+            "productName": "opaz Gemstones Ring, Silver",
+            "categoryName": "Women",
+            "subcategoryName": "Ring",
+            "shortDescription": "Precious circular white topaz stones reminiscent of raindrops",
+            "longDescription": "From our Tender Collection: Precious circular white topaz stones reminiscent of raindrops make up this fun and playful Tender Statement Ring. Beautifully crafted in 925 sterling silver and set with genuine white topaz. As always all Hot Diamonds jewellery is adorned with a real diamond and presented in a luxury gift box.",
+            "price": 960.67,
+            "quantity": 60,
+            "discountPrice": 200,
+            "active": true
+        },
+        {
+            "_id": "656b85740ae384209a8c2483",
+            "sku": "bag-1701545332555",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701545330/product_images/undefined-1701545329706.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701545329/product_images/undefined-1701545329709.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701545329/product_images/undefined-1701545329712.jpg"
+            ],
+            "productName": "Shoulder Bag, Black",
+            "categoryName": "Women",
+            "subcategoryName": "Bag",
+            "shortDescription": "Inspired by the neat folds of origami",
+            "longDescription": "Inspired by the neat folds of origami, Le Pliage from Longchamp delivers practical simplicity to a sleek everyday style. The light, foldaway bag has become recognisable worldwide.",
+            "price": 1280.9,
+            "quantity": 300,
+            "discountPrice": 200,
+            "active": true
+        },
+        {
+            "_id": "656b86546ad81e1f7e2a8020",
+            "sku": "bag-1701545556833",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051980/product_images/1702051982695/wloipjadnlmmuidvqbhm.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051982/product_images/1702051984192/xwfbbwsboyblxjvtt8m9.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702051983/product_images/1702051985891/bhuijqokfvvje2qh8jjk.jpg"
+            ],
+            "productName": "Tote Bag",
+            "categoryName": "Women",
+            "subcategoryName": "Bag",
+            "shortDescription": "Reusable square tote bag",
+            "longDescription": "Reusable square tote bag made from natural cotton, with our Snapper plant character on the front.",
+            "price": 76.85,
+            "quantity": 300,
+            "discountPrice": 15,
+            "active": true
+        },
+        {
+            "_id": "656b8a47f366bb7113bcb01f",
+            "sku": "bag-1701546567311",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701546564/product_images/undefined-1701546564719.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701546564/product_images/undefined-1701546564721.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701546564/product_images/undefined-1701546564722.jpg"
+            ],
+            "productName": "shoulder bag perfect",
+            "categoryName": "Women",
+            "subcategoryName": "Bag",
+            "shortDescription": "shoulder bag perfect",
+            "longDescription": "A smart shoulder bag perfect for work and weekends alike, choose this sleek piece from Ted Baker. Constructed from hardwearing fabric that's sure to last, it's detailed with a bow trim to the front and fastened with a secure zip.",
+            "price": 1408.99,
+            "quantity": 150,
+            "discountPrice": 80,
+            "active": true
+        },
+        {
+            "_id": "656b8ad8f366bb7113bcb035",
+            "sku": "bag-1701546712658",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701546710/product_images/undefined-1701546710942.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701546710/product_images/undefined-1701546710943.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701546710/product_images/undefined-1701546710944.jpg"
+            ],
+            "productName": "Radley Gordon Road Small Zip Top Grab Bag, Black",
+            "categoryName": "Women",
+            "subcategoryName": "Bag",
+            "shortDescription": "handbag style",
+            "longDescription": "A must-have handbag style in any collection, especially when it's been imagined by Radley's talented Design Team. The Gordon Road grab bag is a practical and spacious shape, crafted in leather with a triangular slip pocket across the front. And of course, it's finished with all the brand's signature features.",
+            "price": 1524.27,
+            "quantity": 200,
+            "discountPrice": 0,
+            "active": true
+        },
+        {
+            "_id": "656b8b8bf366bb7113bcb047",
+            "sku": "bag-1701546891697",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052010/product_images/1702052013102/l3y36dvqcpwcdy4j0kdi.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052012/product_images/1702052014360/l3shrfezsyk2drqaxyzh.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052013/product_images/1702052015886/jul7ebnoqhmnjsacahjc.jpg"
+            ],
+            "productName": "Katie Loxton Birthstone Pouch Bag, January",
+            "categoryName": "Women",
+            "subcategoryName": "Bag",
+            "shortDescription": "pouch from Katie Loxton",
+            "longDescription": "This month pouch from Katie Loxton features a vegan leather material and a zip pull which is embellished with a real semi-precious stone. Complete with their signature gold-tone details, showcasing the months unique personality traits.",
+            "price": 294.61,
+            "quantity": 300,
+            "discountPrice": 120,
+            "active": true
+        },
+        {
+            "_id": "656b8c96f366bb7113bcb065",
+            "sku": "glasses1701547158328",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701547155/product_images/undefined-1701547154118.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701547153/product_images/undefined-1701547154118.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701547156/product_images/undefined-1701547154118.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701547153/product_images/undefined-1701547154130.jpg"
+            ],
+            "productName": "Polo Ralph Lauren RA5160 Women's Cat's Eye Sunglasses",
+            "categoryName": "Women",
+            "subcategoryName": "Glasses",
+            "shortDescription": "sunglasses have a slender",
+            "longDescription": "Complete your look in effortless style with these sunglasses from Polo Ralph Lauren.\r\n\r\nWith a distinctive cat's eye shape, these sunglasses have a slender frame and metal detailing for a sleek finish.  The model is completed with branding at the arms.",
+            "price": 1165.62,
+            "quantity": 80,
+            "discountPrice": 0,
+            "active": true
+        },
+        {
+            "_id": "656b8d39f366bb7113bcb07b",
+            "sku": "glasses-1701547321040",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052309/product_images/1702052312029/wofteove8ctyvjh0fffy.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052311/product_images/1702052313661/ejjj6ptoj6h8zdzakccq.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052312/product_images/1702052315148/zyznrxm3lzsaxlbkamaq.jpg"
+            ],
+            "productName": "Prada PR 17WS Women's Square Sunglasses, Black",
+            "categoryName": "Women",
+            "subcategoryName": "Glasses",
+            "shortDescription": " pair of rectangular-shaped sunglasses",
+            "longDescription": "This pair of rectangular-shaped sunglasses by Prada is designed to suit a round-shaped face.\r\nThe polyamide lenses are impact resistant and lightweight for comfortable wear, repelling water and dust for higher clarity.",
+            "price": 2561.8,
+            "quantity": 250,
+            "discountPrice": 1000,
+            "active": true
+        },
+        {
+            "_id": "656b8d98f366bb7113bcb085",
+            "sku": "glasses-1701547416026",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701547414/product_images/undefined-1701547412978.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701547412/product_images/undefined-1701547412978.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701547412/product_images/undefined-1701547412981.jpg"
+            ],
+            "productName": " pair of rectangular-shaped sunglasses",
+            "categoryName": "Women",
+            "subcategoryName": "Glasses",
+            "shortDescription": " pair of rectangular-shaped sunglasses",
+            "longDescription": "Presented in a standout asymmetric profile, this pair of sunglasses from Prada enhance the features of oval faces.\r\nThe polycarbonate lenses are impact-resistant and lightweight for comfortable wear, repelling water and dust for higher clarity.",
+            "price": 1500,
+            "quantity": 160,
+            "discountPrice": 0,
+            "active": true
+        },
+        {
+            "_id": "656b8e39f366bb7113bcb097",
+            "sku": "watch-1701547577313",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052108/product_images/1702052110576/ql1q12wbvpatej7fpdlg.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052109/product_images/1702052112083/ahpulmc9dccdmt5p83xm.jpg"
+            ],
+            "productName": "Watch SE (2022) GPS, 44mm, Regular, Silver",
+            "categoryName": "Men",
+            "subcategoryName": "Watch",
+            "shortDescription": " Apple Watch SE ",
+            "longDescription": "The 2nd generation of Apple Watch SE has powerful sensors for insights about your health and fitness, innovative safety features and convenient ways to stay connected. It’s also been updated with a faster dual-core processor for enhanced performance. It’s feature packed, tracking heart rate, sleep and loads more, helpfully guiding you towards a healthier you.",
+            "price": 2061.35,
+            "quantity": 250,
+            "discountPrice": 500,
+            "active": true
+        },
+        {
+            "_id": "656b8ed2f366bb7113bcb0c2",
+            "sku": "watch-1701547730074",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052147/product_images/1702052149644/bso7fzfgxkluvsdq1dut.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052148/product_images/1702052151046/vllexwjelfbsaehmnab1.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052150/product_images/1702052152755/kl8hrbk90pnekzsyn7fy.jpg"
+            ],
+            "productName": "Instinct 2 Rugged GPS Smartwatch, Graphite",
+            "categoryName": "Men",
+            "subcategoryName": "Watch",
+            "shortDescription": "GPS smartwatch ",
+            "longDescription": "This rugged GPS smartwatch from Garmin is tough enough to keep up with you, as well as fitting your style. Preloaded activity profiles for running, biking, swimming and more let you do more of the exercise you love. It lets you understand your body better with all-day health monitoring for energy levels, heart rate, respiration, stress, sleep, Pulse Ox, and more.* And it can keep you connected with smart notifications (with a compatible smart phone), and ConnectIQ compatibility.",
+            "price": 600,
+            "quantity": 240,
+            "discountPrice": 200,
+            "active": true
+        },
+        {
+            "_id": "656b8f51f366bb7113bcb0d8",
+            "sku": "watch-1701547857748",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052087/product_images/1702052089401/hrz81nmuzqa3a3facxbi.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052088/product_images/1702052090826/kooh49zokkwfk5vqumps.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052090/product_images/1702052092317/acp2ti5dmsixqpbs9q6p.jpg"
+            ],
+            "productName": "GPS smartwatch ",
+            "categoryName": "Men",
+            "subcategoryName": "Watch",
+            "shortDescription": "Tommy Hilfiger watch",
+            "longDescription": "With a sleek polished finish, this Tommy Hilfiger watch presents a clean and easy-to-read dial organised by slim index hour markets and sharp Arabic numerals every 3 hours. The polished bracelet strap gives a more formal appeal to the look and fastens with a folding clasp. The watch is water resistant up to 5 ATM for a practical touch.",
+            "price": 1793.26,
+            "quantity": 200,
+            "discountPrice": 500,
+            "active": true
+        },
+        {
+            "_id": "656b908aa1e081a0961e098e",
+            "sku": "bag-1701548170652",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052239/product_images/1702052242113/xobgpafzlsj9i4cimj7n.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052241/product_images/1702052243581/vunezvibatlxdvp6yxsx.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052242/product_images/1702052245113/loppghp2rgbjgp7w9qo4.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052244/product_images/1702052246554/tpjlizui7umfjoulfik6.jpg"
+            ],
+            "productName": "Barbour Leather Wash Bag, Dark Brown",
+            "categoryName": "Men",
+            "subcategoryName": "bag",
+            "shortDescription": "wash bag",
+            "longDescription": "With an embossed logo, this leather wash bag from Barbour boasts rugged texture and charm thanks to a natural grained finish and rounded edges. With a grab handle, and an external zipped pocket, this travel essential keeps all your toiletries practically protected and to hand when you're on-the-go.",
+            "price": 153.71,
+            "quantity": 160,
+            "discountPrice": 53,
+            "active": true
+        },
+        {
+            "_id": "656b912da1e081a0961e099e",
+            "sku": "bag-1701548333443",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052287/product_images/1702052289220/kq5oe8pjuayxtuv3stsc.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052288/product_images/1702052290869/y9eec3vavtrmzja8cjbp.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052290/product_images/1702052292291/c742unqcrgoetjy91imb.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052291/product_images/1702052294006/wb6sy0036machiz95ei7.jpg"
+            ],
+            "productName": "Barbour Waxed Cotton Briefcase, Navy",
+            "categoryName": "Men",
+            "subcategoryName": "bag",
+            "shortDescription": "satchel-style briefcase",
+            "longDescription": "This traditional satchel-style briefcase from British heritage brand Barbour is crafted from a durable waxed cotton fabric.\r\nThe insides are lined with lightweight cotton in Barbour's signature classic tartan. With two leather carry handles, it also has a detachable webbing shoulder strap for extra practicality.",
+            "price": 1500,
+            "quantity": 100,
+            "discountPrice": 500,
+            "active": true
+        },
+        {
+            "_id": "656b91c8a1e081a0961e09ae",
+            "sku": "brac-1701548488652",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052208/product_images/1702052210052/idkrebwc2rtk2s6h3e2y.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052209/product_images/1702052211658/fsc3fiiz945tlshhsukk.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052211/product_images/1702052213447/a8ocz4qkyflx4caq1nhw.jpg"
+            ],
+            "productName": "BOSS Men's Braided Leather Bracelet, Brown BOSS Men's Braided Leather Bracelet, Brown",
+            "categoryName": "Men",
+            "subcategoryName": "bracelet",
+            "shortDescription": "This BOSS braided men's leather bracelet",
+            "longDescription": "This BOSS braided men's leather bracelet is from the Seal collection. Exuding contemporary masculinity, the Seal bracelet collection combines two strands of braided leather with a distinctive cufflink-style button, inspired by the brand's iconic tailoring. With a logo-engraved guilloché finish, the stainless steel button secures with a woven leather loop for a relaxed look.",
+            "price": 627.64,
+            "quantity": 100,
+            "discountPrice": 100,
+            "active": true
+        },
+        {
+            "_id": "656b9217a1e081a0961e09b0",
+            "sku": "brac-1701548567190",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052259/product_images/1702052261594/tsdmdhfhv4ldeqqdxgxm.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052261/product_images/1702052263233/fqtoso1osggjnix98gki.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052262/product_images/1702052264349/thwrrukfkwihi8x8dhm3.webp"
+            ],
+            "productName": "This BOSS braided men's leather bracelet",
+            "categoryName": "Men",
+            "subcategoryName": "bracelet",
+            "shortDescription": "This BOSS braided men's leather bracelet",
+            "longDescription": "Intricately woven from leather, this BOSS men's leather bracelet from the Lander collection is understated yet assured. The ideal complement to a BOSS timepiece, the bracelet is secured with a logo-engraved magnetic closure.",
+            "price": 755.73,
+            "quantity": 100,
+            "discountPrice": 200,
+            "active": true
+        },
+        {
+            "_id": "656b93f2a1e081a0961e09ec",
+            "sku": "shose-1701549042421",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701549040/product_images/undefined-1701549039524.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701549039/product_images/undefined-1701549039524.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1701549039/product_images/undefined-1701549039530.jpg"
+            ],
+            "productName": "Hush Puppies Shaun Suede Chelsea Boots, Black",
+            "categoryName": "Men",
+            "subcategoryName": "Shoes",
+            "shortDescription": "A classic Chelsea style boot",
+            "longDescription": "A classic Chelsea style boot, Shaun from Hush Puppies is made with a water repellent suede upper.\r\nFeaturing a flexible and lightweight sole unit in addition to a Memory Foam comfort insole, this is a comfortable option for work and play.",
+            "price": 400,
+            "quantity": 300,
+            "discountPrice": 0,
+            "active": true
+        },
+        {
+            "_id": "656b97a7a1e081a0961e09ee",
+            "sku": "shose-1701549991179",
+            "productImage": [
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052395/product_images/1702052398031/qt1zmjnjflphwfqi3den.webp",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052397/product_images/1702052399588/d7ieuya4sjljsovc4pov.jpg",
+                "https://res.cloudinary.com/dfin3vmgz/image/upload/v1702052398/product_images/1702052401089/yfxj1pgljdv5cxudbxfh.jpg"
+            ],
+            "productName": "Dune Mandatory Leather Chelsea Boots, Dark Brown",
+            "categoryName": "Men",
+            "subcategoryName": "Shoes",
+            "shortDescription": "A classic Chelsea style boot",
+            "longDescription": "Blending style and function, these Chelsea boots from Dune are constructed from pure leather that will age beautifully with every wear.\r\nSlipping on when needed, pair with rolled up trousers for the ultimate weekend look",
+            "price": 1537.08,
+            "quantity": 300,
+            "discountPrice": 500,
+            "active": true
+        }
+    ]
